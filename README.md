@@ -1,5 +1,6 @@
 ﻿# java-blog-api
-# Название приложения <span style="color:#ff69b4">LopuXi🐰</span>
+# Название приложения LopuXi🐰
+
 
 ## 🛠 Технологии  
 - Язык: Kotlin (Android), Java.  
