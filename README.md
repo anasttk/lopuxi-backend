@@ -1,6 +1,5 @@
 ﻿# java-blog-api
 # Название приложения LopuXi🐰
-# <span style="color:#fb607f">LopuXi</span> 
 
 
 ## 🛠 Технологии  
